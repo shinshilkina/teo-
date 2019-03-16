@@ -1,0 +1,11 @@
+C:\Users\Ася\Desktop\teoред\teo\bin\Release\teo.exe.config
+C:\Users\Ася\Desktop\teoред\teo\bin\Release\teo.exe
+C:\Users\Ася\Desktop\teoред\teo\bin\Release\teo.pdb
+C:\Users\Ася\Desktop\teoред\teo\obj\Release\teo.csprojResolveAssemblyReference.cache
+C:\Users\Ася\Desktop\teoред\teo\obj\Release\teo.About.resources
+C:\Users\Ася\Desktop\teoред\teo\obj\Release\teo.Form1.resources
+C:\Users\Ася\Desktop\teoред\teo\obj\Release\teo.Form2.resources
+C:\Users\Ася\Desktop\teoред\teo\obj\Release\teo.Properties.Resources.resources
+C:\Users\Ася\Desktop\teoред\teo\obj\Release\teo.csproj.GenerateResource.Cache
+C:\Users\Ася\Desktop\teoред\teo\obj\Release\teo.exe
+C:\Users\Ася\Desktop\teoред\teo\obj\Release\teo.pdb

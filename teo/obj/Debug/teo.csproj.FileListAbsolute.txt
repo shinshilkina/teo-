@@ -1,0 +1,24 @@
+C:\Users\Ася\Desktop\универ\5 семестр\инженерка\teo\teo\bin\Debug\teo.exe.config
+C:\Users\Ася\Desktop\универ\5 семестр\инженерка\teo\teo\bin\Debug\teo.exe
+C:\Users\Ася\Desktop\универ\5 семестр\инженерка\teo\teo\bin\Debug\teo.pdb
+C:\Users\Ася\Desktop\универ\5 семестр\инженерка\teo\teo\obj\Debug\teo.csprojResolveAssemblyReference.cache
+C:\Users\Ася\Desktop\универ\5 семестр\инженерка\teo\teo\obj\Debug\teo.Form1.resources
+C:\Users\Ася\Desktop\универ\5 семестр\инженерка\teo\teo\obj\Debug\teo.Properties.Resources.resources
+C:\Users\Ася\Desktop\универ\5 семестр\инженерка\teo\teo\obj\Debug\teo.csproj.GenerateResource.Cache
+C:\Users\Ася\Desktop\универ\5 семестр\инженерка\teo\teo\obj\Debug\teo.exe
+C:\Users\Ася\Desktop\универ\5 семестр\инженерка\teo\teo\obj\Debug\teo.pdb
+C:\Users\Ася\Desktop\универ\5 семестр\инженерка\teo\teo\obj\Debug\teo.Form2.resources
+C:\Users\KUZ601\Desktop\teoред\teo\bin\Debug\teo.exe.config
+C:\Users\KUZ601\Desktop\teoред\teo\obj\Debug\teo.exe
+C:\Users\KUZ601\Desktop\teoред\teo\obj\Debug\teo.pdb
+C:\Users\KUZ601\Desktop\teoред\teo\bin\Debug\teo.exe
+C:\Users\KUZ601\Desktop\teoред\teo\bin\Debug\teo.pdb
+C:\Users\KUZ601\Desktop\teoред\teo\obj\Debug\teo.csprojResolveAssemblyReference.cache
+C:\Users\KUZ601\Desktop\teoред\teo\obj\Debug\teo.Form1.resources
+C:\Users\KUZ601\Desktop\teoред\teo\obj\Debug\teo.Form2.resources
+C:\Users\KUZ601\Desktop\teoред\teo\obj\Debug\teo.Properties.Resources.resources
+C:\Users\KUZ601\Desktop\teoред\teo\obj\Debug\teo.csproj.GenerateResource.Cache
+C:\Users\KUZ601\Desktop\teoред\teo\obj\Debug\teo.About.resources
+C:\Users\Ася\Desktop\teoред\teo\bin\Debug\teo.exe.config
+C:\Users\Ася\Desktop\teoред\teo\obj\Debug\teo.exe
+C:\Users\Ася\Desktop\teoред\teo\obj\Debug\teo.pdb

@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>                                                              ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ на Калькулятор ТЭО
+
+
+Настоящее лицензионное соглашение (далее Соглашение) является юридическим документом, заключаемым между Вами (физическим или юридическим лицом, далее Пользователь) и Шилиной Анастасией Витальевной (далее Автор) относительно указанного выше программного продукта (далее Программа или Программное обеспечение), включающего в себя программное обеспечение, записанное на соответствующих носителях, любые печатные материалы и любую встроенную или электронную документацию.Устанавливая, копируя или иным образом используя программу, Вы тем самым принимаете на себя условия настоящего соглашения. Если Вы не принимаете условий данного соглашения, то Вы не имеете права использовать данную программу и ее следует незамедлительно вернуть обратно продавцу и получить обратно уплаченные деньги. 
+
+                                                                                    ЛИЦЕНЗИЯ НА ПРОГРАММУ 
+
+Программа защищена законами и международными соглашениями об авторских правах, а также другими законами и договорами, регулирующими отношения авторского права. Программа лицензируется, а не продается. 
+
+                                                                                         1. ОБЪЕМ ЛИЦЕНЗИИ. 
+
+Настоящее соглашение дает вам нижеследующие права: 
+1.1. Использование программы. 
+Разрешается установка одновременно на одном компьютере программы или любой предыдущей версии. Основному пользователю компьютера, на котором установлена эта копия, разрешается также создание еще одной копии исключительно для своей работы на переносном компьютере. 
+1.2. Хранение и использование в сети. 
+Разрешается хранение, установка и запуск копии программы с общедоступного устройства хранения данных(например, сервера сети). При этом для каждого компьютера, на котором установлена или запущена с сервера сети данная программа, необходимо приобрести отдельную лицензию. Лицензия на программу не допускает совместного или одновременного использования программы на разных компьютерах в количестве более указанного в п. 1.1. 
+
+                                                                     2. ОПИСАНИЕ ПРОЧИХ ПРАВ И ОГРАНИЧЕНИЙ. 
+
+2.1. Ограничения на вскрытие технологии, декомпиляцию и дизассемблирование. 
+Не разрешается осуществлять вскрытие технологии, декомпиляцию и дизассемблирование программы, за исключением и только в той степени, в которой такие действия явно разрешены действующим законодательством, несмотря на наличие в соглашении данного ограничения. 
+2.2. Разделение программы. 
+Программа лицензируется как единое целое.Ее нельзя разделять на составляющие части для использования на нескольких компьютерах. 
+2.3. Прокат. 
+Не разрешается предоставлять программу в прокат или во временное пользование. 
+2.4. Услуги по технической поддержке. 
+Автор оказывает услуги по технической поддержке программных продуктов (далее Услуги по технической поддержке). Обращение к Автору за технической поддержкой осуществляется по e-mail: ashinshilina@yandex.ru. Любые дополнительные программы и исходные тексты, переданные вам в результате оказания услуг по технической поддержке, должны рассматриваться как составная часть программы и подпадают, таким образом, под действие ограничений и условий данного соглашения. Технические данные, которые сообщаются службе технической поддержки в ходе обращения, могут быть использованы Автором для внутренних целей, включая техническую поддержку программных продуктов и разработку программного обеспечения.Автор не будет использовать данные сведения в форме, раскрывающей ваши личные сведения. 
+2.5. Передача программы. 
+Разрешается навсегда уступить все свои права по настоящему соглашению только вместе с продажей или передачей компьютера при условии, что Вы не сохраняете никаких копий, передаете всю программу(включая все составные части, носители и печатные материалы, любые обновления, настоящее соглашение и сертификаты подлинности, если таковые имеются), а получатель соглашается на условия данного соглашения.Если программа является обновлением (Upgrade), то любая передача должна включать в себя все предыдущие версии программы. 
+2.6. Прекращение действия соглашения. 
+Без ущерба для любых других своих прав Автор может прекратить действие настоящего соглашения при несоблюдении условий и ограничений данного соглашения, что обяжет вас уничтожить все имеющиеся
+копии и составляющие части программы. 
+2.7. Функционал Программы 
+Программа реализует функциональные возможности, описанные во документе "Функционал". Автор не несёт ответственности за функционал, не регламентированный данным документом. 
+2.8. Для ознакомления с документом, указанным в п.2.7 необходимо подключение к сети Интернет. 
+
+                                                                                   3. АВТОРСКОЕ ПРАВО. 
+
+3.1. Все права собственности и авторские права на программу(в том числе любые включенные в нее управляющие программы (applets), фотографии, анимации, видео - и звукозаписи, музыку и текст), компоненты ActiveX, сопровождающие ее печатные материалы и любые копии программы принадлежат Автору. Все права Автора на программу защищены законами и международными соглашениями об авторских правах, а также другими законами и договорами, регулирующими отношения авторского права.Следовательно, с программой необходимо обращаться, как с любым другим объектом авторского права, с тем лишь исключением, что программу разрешается установить на один компьютер и сохранить оригинал при условии, что он будет использоваться только как архив или резервная копия.Копирование сопровождающих программу печатных материалов запрещено. 
+
+                                                                     4. РАЗЛИЧНЫЕ НОСИТЕЛИ ПРОГРАММ. 
+
+4.1. Программа может поставляться на нескольких видах носителей, а также по сети Internet исключительно с электронной почты Автора.Независимо от их вида и емкости разрешается использовать только носители одного вида, который соответствует именно вашему компьютеру или серверу сети. Не разрешается производить установку с прочих носителей на другие компьютеры, предоставлять носители в прокат или во временное пользование или уступать их для использования в иных целях, за исключением случая полной передачи программного обеспечения, описанного выше.</value>
+  </data>
+</root>
